@@ -1,1 +1,1 @@
-# loto-bingo
+# loto-game
